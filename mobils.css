@@ -1,0 +1,165 @@
+.sb-pr :hover{  
+background-color
+: black;
+}
+ 
+
+.header{
+    color: white;
+    padding-top: 150px;
+}
+
+.section {
+    position: relative;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.section{
+background-color:#3C2BDA;
+margin-bottom: 100px;
+}
+.mobile-img{
+    width: 60%;
+    border-radius: 15%;
+}
+
+.icon-stack {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 100%;
+}
+
+.icon-flex {
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 578px) {
+    
+    .mobile-img{
+        width: 100%;
+    }
+.hid {
+    display: none;
+}
+    
+}
+
+
+
+.icon-stack-xl svg {
+    height: 1.75rem;
+    width: 1.75rem;
+    
+}
+.icon-stack-xl {
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+}
+
+.icon-stack-lg {
+    height: 4rem;
+    width: 4rem;
+    font-size: 1.5rem;
+}
+
+.bg-gradient-primary-to-secondary{
+
+    background-color: #0061f2 !important;
+    background-image: linear-gradient(
+    135deg, #0061f2 0%, rgba(105, 0, 199, 0.8) 100%) !important;
+}
+.bg-green-soft {
+   background-color: #DAEFED;
+}
+
+.bg-purple-soft {
+    background-color: #E4DDF7;
+}
+
+.text-purple {
+    color: #6900C7;
+}
+
+.bg-red-soft {
+
+    background-color: #F1E0E3
+}
+
+.bg-blue-soft {
+    background-color: #DAE7FB;
+}
+
+.bg-yellow-soft {
+    background-color: #F2EEE3;
+}
+
+.bg-orange-soft {
+    background-color: #F3E7E3;
+}
+
+.text-orange {
+    color: #F76C0D;
+}
+
+.text-blue {
+    color: #5193F5;
+}
+.text-yellow {
+    color: #F4A100;
+}
+
+.text-red {
+    color: #EB6155;
+}
+
+.text-green {
+    color:  #00AC69;
+}
+
+h3 {
+    text-align: center;
+}
+.mobile-two{
+    color: rgb(144, 177, 177);
+    
+}
+.mabile-three{
+    color: #0061f2;
+}
+.mabile-four{
+    color: #C5CCD6;
+
+}
+.point-div{
+    width: 100%;
+    color: black;
+}
+section{
+    margin-bottom: 100px;
+}
+.Components1{
+background-color: rgb(255, 254, 254);
+box-shadow: 10px 10px 10px #E2E6EC;
+border-radius: 5px;
+margin-top: 4%;
+margin-right: 4%;
+}
+
+.section-three .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-three{
+background-color: #F2F6FC;
+
+
+}
+a{text-decoration: none;}
+
